@@ -1,0 +1,20 @@
+names:
+- Bacterial Dermatosis - skin
+- Cataract - eye
+- Cherry eye - eye
+- Conjunctivitis - eye
+- Fungal infection - skin
+- Glaucoma - eye
+- Healthy - skin
+- Hypersensitivity allergic dermatosis - skin
+- Iris atrophy - eye
+nc: 9
+roboflow:
+  license: CC BY 4.0
+  project: dogskin-n3tfa
+  url: https://universe.roboflow.com/thyhuong/dogskin-n3tfa/dataset/2
+  version: 2
+  workspace: thyhuong
+test: ./everfur/datasets/Eye/eye_part2/dog-diseases-9class/test/images
+train: ./everfur/datasets/Eye/eye_part2/dog-diseases-9class/train/images
+val: ./everfur/datasets/Eye/eye_part2/dog-diseases-9class/valid/images

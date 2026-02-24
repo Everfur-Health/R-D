@@ -1,0 +1,7 @@
+{
+  "classes": [
+    "calm",
+    "distress"
+  ],
+  "mode": "binary"
+}
